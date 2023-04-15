@@ -1,9 +1,10 @@
 # CursoXPe---Python
 
-MODULO 01
+## MODULO 01 -Fundamentos
 
-SUMÁRIO
-Capítulo 1.
+## SUMÁRIO
+
+### Capítulo 1.
 
 - Características da Linguagem
 - Vantagens e Desvantagens
