@@ -1,3 +1,4 @@
+"""
 # Erro de sintaxe
 x = 3
 y = 5
@@ -25,3 +26,4 @@ y = 7.0
 z = 12.0
 media = x + y + z / 3
 print(media)
+"""
